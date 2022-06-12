@@ -1,1 +1,1 @@
-Student of applied sciences at the Scientific Lyceum *Fermi* of Padua.
+Student of applied sciences at the Scientific Lyceum *E. Fermi* of Padua.
