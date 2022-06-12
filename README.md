@@ -6,4 +6,4 @@
  - Rust
  - Laravel
 
-🔗 Personal website: [https://scratchx98.github.io](ScratchX98.github.io)
+🔗 Personal website: [ScratchX98.github.io](https://scratchx98.github.io)
